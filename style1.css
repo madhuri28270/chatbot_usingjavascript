@@ -1,0 +1,34 @@
+.bottermessage {
+    background: white;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.knowermessage {
+	background: white;
+	padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin: 5px;
+}
+
+#box {
+	background: lightgray;
+	padding: 10px;
+    border-radius: 10px;
+
+}
+.knowerblock {
+    text-align: right;
+}
+
+#input {
+    width: 100%;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+#hidden{
+	display: none;
+}
