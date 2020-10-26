@@ -7,6 +7,10 @@ REPL.IT LINK :
 
 https://repl.it/@madhuri2827/prescriptionchatbot#index.html
 
+https://repl.it/@madhuri2827/prescriptionchatbot#botter.js
+
+https://repl.it/@madhuri2827/prescriptionchatbot#style1.css
+
 YOUTUBE LINK :
 
 https://youtu.be/_-YmnxGXV3w
