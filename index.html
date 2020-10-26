@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Simple AI Seller</title>
+	<link rel="stylesheet" type="text/css" href="style1.css">
+</head>
+<body>
+
+	<div id="box"> 
+		<!-- this is the main chat box where bot and knower will communicate -->
+<div id="messages">
+	<div class="bottererblock">
+		<div class="bottermessage">
+		Hi, if you want to know the prescription,select from cold ,fever ,cough,acedity, migrain and enter their name</div>
+		<!-- write here anything you wish -->
+	</div>
+
+	<!-- now the hidden blocks  -->
+</div>
+<div id="hidden">
+	<div id="botterblock" class="botterblock">
+		<div class="bottermessage">
+		Hi, What do you want to know?</div>
+		<!-- write here anything you wish -->
+	</div>
+	<div id="knowerblock" class="knowerblock">
+		<div class="knowermessage">cold</div>
+	</div>
+</div>
+<input id="input" onkeyup="taketheinput(event)">
+		
+	</div>
+<script type="text/javascript" src="botter.js"></script>
+</body>
+</html>
